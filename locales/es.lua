@@ -1,0 +1,16 @@
+Locales['es'] = {
+  ['used_hamburger'] = 'Has usado ~y~1x~s~ ~b~Hamburguesa~s~',
+  ['used_water'] = 'Has usado ~y~1x~s~ ~b~Agua~s~',
+  ['used_cocacola'] = 'Has usado ~y~1x~s~ ~b~Coca Cola~s~',
+  ['used_drpepper'] = 'Has usado ~y~1x~s~ ~b~Dr Pepper~s~',
+  ['used_soda'] = 'Has usado ~y~1x~s~ ~b~Soda~s~',
+  ['used_icetea'] = 'Has usado ~y~1x~s~ ~b~Té Helado~s~',
+  ['used_whisky'] = 'Has usado ~y~1x~s~ ~b~Whisky~s~',
+  ['used_joint'] = 'Has usado ~y~1x~s~ ~b~Té de María~s~',
+  ['used_coffe'] = 'Has usado ~y~1x~s~ ~b~Café~s~',
+  ['used_tequila'] = 'Has usado ~y~1x~s~ ~b~Tequila~s~',
+  ['used_sandwich'] = 'Has usado ~y~1x~s~ ~b~Sandwich~s~',
+  ['used_chocolate'] = 'Has usado ~y~1x~s~ ~b~Chocolatina~s~',
+  ['used_chips'] = 'Has usado ~y~1x~s~ ~b~Patatas~s~',
+  ['used_mdpv'] = 'Has usado ~y~1x~s~ ~b~Pastilla de MDPV~s~',
+}
